@@ -28,7 +28,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Connexion Admin</title>
+	<title>Connexion Administrateur</title>
 </head>
 <body>
 	<h2>Connexion</h2>

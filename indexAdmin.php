@@ -11,7 +11,7 @@ session_start();
 	<title>Admin</title>
 </head>
 <body>
-	<h2>Connexion Admin</h2>
+	<h2>Accueil Admin</h2>
 	<div>
 		<ul>
 			<li><a href="membersAdmin.php"> Afficher les membres</a> </li>
