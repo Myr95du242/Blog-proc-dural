@@ -7,7 +7,7 @@ if (!$bdd) {
 	exit();
 }
 
-$req_sql="INSERT INTO contenu(titre,date,commentaire,photo)
+$req_sql="INSERT INTO contenu(titre,date_contenu,commentaire,photo)
 					VALUES(?,NOW(),?,?)";
 //préparation des données
 $req=$bdd->prepare($req_sql);
